@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/folipin-logo.png" alt="Logo Folipin" width="128" height="128">
+</p>
+
 # Folipin
 
 **Lưu lại. Ghim cạnh. Dùng tiếp.**

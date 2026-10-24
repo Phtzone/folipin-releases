@@ -4,7 +4,7 @@
 
 <h1 align="center">Folipin</h1>
 <p align="center"><strong>Lưu lại. Ghim cạnh. Dùng tiếp.</strong></p>
-<p align="center">Không gian clipboard cho Windows — giữ nội dung cần dùng ngay trong tầm tay.</p>
+<p align="center">Ứng dụng quản lý clipboard cho Windows, hỗ trợ lưu trữ, tìm kiếm và tái sử dụng nội dung.</p>
 
 <p align="center">
   <a href="https://github.com/Phtzone/folipin-releases/releases/latest/download/Folipin_0.1.1_x64-setup.exe"><img src="https://img.shields.io/badge/T%E1%BA%A3i_Folipin-0.1.1-0F766E?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Tải Folipin 0.1.1 cho Windows"></a>
@@ -17,32 +17,36 @@
 
 ---
 
-## Sao chép một lần, dùng lại khi cần
+## Giới thiệu
 
-Đang viết tài liệu, gom hình ảnh hay chuyển tệp giữa các ứng dụng? Folipin giữ lại nội dung đã sao chép để bạn tìm lại, xem trước và dùng tiếp. Ghim những mục thường dùng, tìm nhanh bằng từ khóa và mở bảng clipboard từ mép trái màn hình hoặc phím tắt **Ctrl + Shift + V**.
+Folipin lưu lịch sử nội dung đã sao chép, giúp bạn tìm kiếm, xem trước và sử dụng lại trong quá trình làm việc. Ứng dụng hỗ trợ văn bản, hình ảnh, nội dung có định dạng và tham chiếu tệp, cùng khả năng ghim các mục thường dùng để truy cập nhanh.
+
+Mở bảng clipboard bằng phím tắt **Ctrl + Shift + V** hoặc từ mép trái màn hình. Lịch sử được lưu cục bộ trên máy tính.
 
 <table>
   <tr>
-    <td align="center" width="50%"><img src="assets/screenshots/history-pins.png" alt="Folipin giao diện sáng: mục đã ghim và lịch sử clipboard" width="340"><br><sub>Những nội dung cần dùng, trong cùng một bảng.</sub></td>
-    <td align="center" width="50%"><img src="assets/screenshots/dark-mode.png" alt="Folipin giao diện tối với lịch sử và mục đã ghim" width="340"><br><sub>Chuyển nhanh giữa giao diện sáng và tối.</sub></td>
+    <td align="center" width="50%"><img src="assets/screenshots/history-pins.png" alt="Folipin giao diện sáng: mục đã ghim và lịch sử clipboard" width="340"><br><sub>Lịch sử clipboard và các mục đã ghim.</sub></td>
+    <td align="center" width="50%"><img src="assets/screenshots/dark-mode.png" alt="Folipin giao diện tối với lịch sử và mục đã ghim" width="340"><br><sub>Giao diện tối.</sub></td>
   </tr>
 </table>
 
-<sub>Ảnh được chụp từ các thành phần giao diện Folipin với dữ liệu mẫu, không sử dụng lịch sử clipboard cá nhân. Nội dung và thời gian trong ảnh chỉ dùng để minh họa.</sub>
+<sub>Các ảnh giao diện sử dụng dữ liệu mẫu để minh họa chức năng.</sub>
 
-## Những việc Folipin giúp bạn làm nhanh hơn
+## Tính năng
 
-### Giữ lại và ghim nội dung quan trọng
+### Lịch sử clipboard và mục đã ghim
 
-Lưu lịch sử văn bản, hình ảnh, nội dung có định dạng và tham chiếu tệp đã sao chép. Ghim những mục cần dùng nhiều lần ở đầu bảng; đặt tên và sắp xếp mục ghim để dễ nhận ra. Khi bảng thu vào rồi hiện lại, Folipin đưa bạn về **Tất cả** và đầu lịch sử mới nhất.
+Theo dõi các nội dung đã sao chép trong một giao diện thống nhất. Những mục được ghim hiển thị ở đầu bảng và có thể được đặt tên, sắp xếp để thuận tiện cho việc sử dụng thường xuyên.
 
-### Tìm đúng nội dung, bớt cuộn lịch sử
+Khi mở lại bảng clipboard, Folipin hiển thị bộ lọc **Tất cả** và đưa danh sách về đầu lịch sử.
 
-Nhập từ khóa để tìm trong lịch sử hoặc chuyển bộ lọc **Tất cả · Văn bản · Hình ảnh · Tệp**. Có thể tìm theo tên tệp và dùng các phím mũi tên để chọn kết quả.
+### Tìm kiếm và bộ lọc
 
-### Làm việc với cả nhóm tệp
+Tìm kiếm nội dung và tên tệp bằng từ khóa, kết hợp với các bộ lọc **Tất cả · Văn bản · Hình ảnh · Tệp**. Danh sách kết quả hỗ trợ điều hướng bằng bàn phím.
 
-Xem tên, loại và dung lượng của các tệp đã sao chép; mở thư mục chứa tệp hoặc kéo nội dung sang ứng dụng khác khi được hỗ trợ. Các tệp trong cùng lần sao chép được hiển thị chung để dễ theo dõi.
+### Quản lý nhóm tệp
+
+Các tệp trong cùng lần sao chép được hiển thị thành nhóm, kèm tên, loại và dung lượng. Bạn có thể mở thư mục chứa tệp hoặc kéo nội dung sang các ứng dụng hỗ trợ.
 
 <table>
   <tr>
@@ -51,28 +55,30 @@ Xem tên, loại và dung lượng của các tệp đã sao chép; mở thư m�
   </tr>
 </table>
 
-### Xem trước rồi dùng tiếp
+### Xem trước nội dung
 
-Đọc nội dung văn bản, xem ảnh và xem trước các loại tài liệu được hỗ trợ, bao gồm PDF, ngay trong cửa sổ xem trước. Bạn có thể sao chép lại hoặc ghim cửa sổ lên màn hình để tham khảo trong lúc làm việc.
+Xem trước văn bản, hình ảnh và các định dạng tài liệu được hỗ trợ, bao gồm PDF. Cửa sổ xem trước cho phép sao chép lại nội dung hoặc ghim lên màn hình để tham khảo khi làm việc.
 
 <p align="center"><img src="assets/screenshots/preview.png" alt="Cửa sổ xem trước văn bản trong Folipin với các nút sao chép, kéo, ghim và đóng" width="640"></p>
 
-### Điều chỉnh theo cách bạn làm việc
+### Tùy chỉnh ứng dụng
 
-Đổi phím tắt, bật mở từ mép màn hình, chọn khởi động cùng Windows và chuyển giao diện sáng/tối. Cài đặt cũng có các trang **Quyền riêng tư**, **Lưu trữ** và **Thông tin phiên bản** để quản lý ứng dụng tại một nơi.
+Thiết lập phím tắt, mở bảng clipboard từ mép màn hình, khởi động cùng Windows và lựa chọn giao diện sáng hoặc tối. Các trang **Quyền riêng tư**, **Lưu trữ** và **Thông tin phiên bản** cung cấp các tùy chọn quản lý dữ liệu và cập nhật ứng dụng.
 
 <p align="center"><img src="assets/screenshots/settings.png" alt="Cài đặt Folipin: phím tắt, mở từ mép trái và khởi động cùng Windows" width="900"></p>
 
-## Bắt đầu trong vài bước
+## Cài đặt và sử dụng
 
 1. [Tải bộ cài mới nhất](https://github.com/Phtzone/folipin-releases/releases/latest/download/Folipin_0.1.1_x64-setup.exe) và chạy tệp `.exe`.
-2. Mở Folipin rồi sao chép văn bản, ảnh hoặc tệp như bình thường.
+2. Mở Folipin và sao chép văn bản, hình ảnh hoặc tệp từ các ứng dụng đang sử dụng.
 3. Nhấn **Ctrl + Shift + V**, hoặc đưa con trỏ tới vùng giữa mép trái màn hình nếu tính năng này đang bật.
 4. Chọn nội dung để xem trước; nhấn **Enter** hoặc nhấp đúp để dán vào ứng dụng đang làm việc.
 
-Nếu chưa thấy bảng clipboard, tìm biểu tượng Folipin ở khay hệ thống cạnh đồng hồ Windows. File chương trình sau khi cài có tên **Folipin.exe**.
+Folipin hoạt động trong khay hệ thống cạnh đồng hồ Windows. Sau khi cài đặt, tệp chương trình có tên **Folipin.exe**.
 
-**Yêu cầu:** Windows 10/11, bộ xử lý x64 và Microsoft Edge WebView2 Runtime. Chỉ tải tệp `Folipin_<phiên-bản>_x64-setup.exe`; các tệp `.sig`, `latest.json` và mục **Source code** trên GitHub không phải bộ cài để mở thủ công.
+**Yêu cầu hệ thống:** Windows 10/11, kiến trúc x64 và Microsoft Edge WebView2 Runtime.
+
+Bộ cài có tên dạng `Folipin_<phiên-bản>_x64-setup.exe`. Các tệp `.sig` và `latest.json` phục vụ cơ chế cập nhật tự động; người dùng không cần mở các tệp này. Mục **Source code** do GitHub tạo không chứa bộ cài ứng dụng.
 
 ### Phím tắt thường dùng
 
@@ -86,26 +92,26 @@ Nếu chưa thấy bảng clipboard, tìm biểu tượng Folipin ở khay hệ 
 | **/** | Chuyển tới ô tìm kiếm |
 | **Esc** | Quay lại hoặc đóng theo ngữ cảnh |
 
-## Dữ liệu nằm trên máy của bạn
+## Dữ liệu và quyền riêng tư
 
-Lịch sử clipboard được lưu cục bộ. Bạn có thể tạm dừng lưu từ đầu bảng, loại trừ ứng dụng trong **Cài đặt → Quyền riêng tư**, và quản lý lịch sử trong **Cài đặt → Lưu trữ**.
+Lịch sử clipboard được lưu cục bộ trên máy tính. Bạn có thể tạm dừng ghi lịch sử bằng nút điều khiển ở đầu bảng, cấu hình các ứng dụng được loại trừ trong **Cài đặt → Quyền riêng tư**, và quản lý dữ liệu trong **Cài đặt → Lưu trữ**.
 
-**Với mục tệp, Folipin lưu tham chiếu đến tệp gốc.** Ghim mục tệp không tạo bản sao lưu; nếu tệp nguồn bị di chuyển hoặc xóa, thao tác mở và sử dụng lại có thể không còn khả dụng.
+**Các mục tệp là tham chiếu đến tệp gốc.** Việc ghim không tạo bản sao lưu. Nếu tệp nguồn bị di chuyển hoặc xóa, Folipin có thể không truy cập hoặc sử dụng lại được tệp đó.
 
 ## Cập nhật Folipin
 
-Vào **Cài đặt → Thông tin phiên bản → Kiểm tra cập nhật**. Đọc nội dung thay đổi rồi chọn tải và cài khi sẵn sàng. Gói cập nhật được kiểm tra chữ ký trước khi cài; ứng dụng sẽ đóng trong quá trình nâng cấp.
+Mở **Cài đặt → Thông tin phiên bản → Kiểm tra cập nhật** để kiểm tra phiên bản mới và xem nội dung thay đổi. Bạn chủ động lựa chọn thời điểm tải và cài đặt.
 
-**Đang dùng 0.1.1?** Bộ cài hiện tại được làm mới nhưng giữ nguyên số phiên bản. Hãy thoát Folipin rồi [tải bộ cài và cài đè](https://github.com/Phtzone/folipin-releases/releases/latest/download/Folipin_0.1.1_x64-setup.exe) để nhận các thay đổi mới; updater sẽ không thông báo bản mới có cùng số phiên bản. Không cần gỡ ứng dụng hoặc xóa lịch sử.
+Gói cập nhật được xác minh chữ ký trước khi cài. Folipin sẽ đóng để trình cài đặt thực hiện nâng cấp.
 
-Nếu bản đang dùng chưa có updater hoặc kiểm tra cập nhật thất bại, tải bộ cài tại [GitHub Releases](https://github.com/Phtzone/folipin-releases/releases/latest).
+Bạn cũng có thể tải bộ cài từ [GitHub Releases](https://github.com/Phtzone/folipin-releases/releases/latest).
 
-## Góp ý để Folipin tốt hơn
+## Hỗ trợ và đóng góp ý kiến
 
-[Tạo issue](https://github.com/Phtzone/folipin-releases/issues/new) với phiên bản Folipin, phiên bản Windows, các bước tái hiện và kết quả mong đợi. Ảnh chụp hoặc video minh họa sẽ giúp mô tả vấn đề rõ hơn.
+Để báo lỗi hoặc đề xuất tính năng, vui lòng [tạo issue](https://github.com/Phtzone/folipin-releases/issues/new). Với báo cáo lỗi, hãy cung cấp phiên bản Folipin, phiên bản Windows, các bước tái hiện, kết quả thực tế và kết quả mong đợi. Có thể đính kèm ảnh chụp hoặc video để minh họa.
 
 **Issues là công khai:** hãy che thông tin cá nhân và nội dung clipboard nhạy cảm trước khi gửi.
 
 ---
 
-Kho này phân phối bộ cài và bản cập nhật chính thức của **Folipin**. Mã nguồn ứng dụng được quản lý riêng.
+Đây là kho phân phối bộ cài và bản cập nhật chính thức của **Folipin**. Mã nguồn ứng dụng được quản lý riêng.
